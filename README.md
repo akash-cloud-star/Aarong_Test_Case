@@ -11,6 +11,7 @@ Planning
 * Test Case
 * Bug Report
 * Test Metrics
+
 In this project the website Aarong was used as a object of testing. The artifacts were generated as documents and also the test plan, mind maps, bug report and execution were implemented in the open source test management tool Test Quality.
 ## :page_facing_up: API Test Report
 ## :memo: How to run this project
