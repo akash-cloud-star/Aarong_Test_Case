@@ -4,7 +4,7 @@
 * Published
 # Introduction
 This repository is a practical example of Aarong QA activities related to Testing Planning and execution. It contains artifacts related to the following processes based in the software requirements:
-Planning
+Planning.
 * Test Plan
 * Mind Maps
 * Test Report
