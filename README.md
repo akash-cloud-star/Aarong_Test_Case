@@ -1,7 +1,7 @@
 # Aarong_Test_Case
 ## URL : https://www.aarong.com/
 # Stage
-* In Devlopment
+* Published
 # Introduction
 This repository is a practical example of Aarong QA activities related to Testing Planning and execution. It contains artifacts related to the following processes based in the software requirements:
 Planning
