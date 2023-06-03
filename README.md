@@ -1,5 +1,5 @@
 # Aarong_Test_Case
-URL : (Aarong)[https://www.aarong.com/]
+## URL : https://www.aarong.com/
 ## :page_facing_up: API Test Report
 ## :memo: How to run this project
 ### 🖥 Run by Postman
