@@ -30,15 +30,24 @@ Usability testing refers to evaluating a product or service by testing it with r
 
 * Test Plan
 
-A Test Plan is a detailed document that catalogs the test strategies, objectives, schedule, estimations, deadlines, and resources required to complete that project. Think of it as a blueprint for running the tests needed to ensure the software is working correctly – controlled by test.
+A test plan is a comprehensive document that lists the test objectives, tactics, timeline, budget, and resources needed to complete the project. Imagine it as a guide for carrying out the tests required to make sure the program is operating properly and being regulated by testing.
 
 * Mind Maps
 
-Mind maps are a great way to visually identify and represent test scenarios and relationships between components, as well as to keep up with changes in plans, features, and approaches in the fast-paced Agile environment. Mindmaps can be used as a visual thinking tool for Agile Testing Teams.
+Mind maps are an excellent way to keep track of changes in plans, features, and techniques in the fast-paced Agile environment. They may be used to visually identify and express test scenarios and links between components. Agile Testing Teams can utilize mindmaps as a visual thinking tool.
 
 * Test Report
+
+A test report summary includes all the information on the testing procedure, including what was tested, when it was tested, how it was tested, and in what environments.
+
 * Test Case
+
+A test case is a written document that was created for a particular test scenario to check compliance with a certain requirement. It contains a set of test data, preconditions, expected results, and postconditions.
+
 * Bug Report
+
+In-depth details regarding what is incorrect and what needs to be addressed in software or on a website are contained in a software bug report. For each software issue, these thorough reports include demands or details. It enables the developers to identify the issue and determine a solution.
+
 * Test Metrics
 ### 🖥 Run by Postman
 * Clone this repository.
