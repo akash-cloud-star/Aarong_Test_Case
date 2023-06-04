@@ -1,4 +1,4 @@
-# Aarong_Test_Case
+# Aarong_Manual_Tests
 ## URL : https://www.aarong.com/
 # Stage
 * Published
@@ -12,8 +12,12 @@ Planning.
 * Bug Report
 * Test Metrics
 
-In this project the website Aarong was used as a object of testing. The artifacts were generated as documents and also the test plan, mind maps, bug report and execution were implemented in the open source test management tool Test Quality.
-## :page_facing_up: API Test Report
+In this project the website Aarong was used as a object of testing. The artifacts were generated as documents and also the test plan, mind maps, bug report and execution were implemented in the open source test management tool Test Quality. These tests are intended for a human for buying cloths.At some point in the future these test willl be automated.
+
+# Types of Testing
+* UI Testing
+* Functional testing
+* Usabillity Testing
 ## :memo: How to run this project
 ### 🖥 Run by Postman
 * Clone this repository.
