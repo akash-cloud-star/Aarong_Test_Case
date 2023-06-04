@@ -27,7 +27,10 @@ Functional Testing is a type of software testing that validates the software sys
 Usability testing refers to evaluating a product or service by testing it with representative users. Typically, during a test, participants will try to complete typical tasks while observers watch, listen and takes notes.  The goal is to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product.
 
 # Table of Content
+
 * Test Plan
+ A Test Plan is a detailed document that catalogs the test strategies, objectives, schedule, estimations, deadlines, and resources required to complete that project. Think of it as a blueprint for running the tests needed to ensure the software is working correctly – controlled by test.
+
 * Mind Maps
 * Test Report
 * Test Case
