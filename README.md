@@ -18,7 +18,14 @@ In this project the website Aarong was used as a object of testing. The artifact
 * UI Testing
 * Functional testing
 * Usabillity Testing
-## :memo: How to run this project
+
+# Table of Content
+* Test Plan
+* Mind Maps
+* Test Report
+* Test Case
+* Bug Report
+* Test Metrics
 ### 🖥 Run by Postman
 * Clone this repository.
 * Import collection and environment file/link.
