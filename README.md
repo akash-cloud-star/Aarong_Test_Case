@@ -29,10 +29,11 @@ Usability testing refers to evaluating a product or service by testing it with r
 # Table of Content
 
 * Test Plan
-
 A Test Plan is a detailed document that catalogs the test strategies, objectives, schedule, estimations, deadlines, and resources required to complete that project. Think of it as a blueprint for running the tests needed to ensure the software is working correctly – controlled by test.
 
 * Mind Maps
+Mind maps are a great way to visually identify and represent test scenarios and relationships between components, as well as to keep up with changes in plans, features, and approaches in the fast-paced Agile environment. Mindmaps can be used as a visual thinking tool for Agile Testing Teams.
+
 * Test Report
 * Test Case
 * Bug Report
