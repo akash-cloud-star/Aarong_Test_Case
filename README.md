@@ -49,11 +49,5 @@ A test case is a written document that was created for a particular test scenari
 In-depth details regarding what is incorrect and what needs to be addressed in software or on a website are contained in a software bug report. For each software issue, these thorough reports include demands or details. It enables the developers to identify the issue and determine a solution.
 
 * Test Metrics
-### 🖥 Run by Postman
-* Clone this repository.
-* Import collection and environment file/link.
-* Run the collection on Postman.
-### 🖥 Run by Newman
-* Clone this repository.
-* Open cmd to the file location.
-* Run Command:
+
+Test metrics are measures of the efficacy, efficiency, performance, and quality of software testing methodologies. These metrics enable specialists to gather information about various testing techniques and develop strategies for improving them.
