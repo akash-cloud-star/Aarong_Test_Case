@@ -29,7 +29,8 @@ Usability testing refers to evaluating a product or service by testing it with r
 # Table of Content
 
 * Test Plan
- A Test Plan is a detailed document that catalogs the test strategies, objectives, schedule, estimations, deadlines, and resources required to complete that project. Think of it as a blueprint for running the tests needed to ensure the software is working correctly – controlled by test.
+
+A Test Plan is a detailed document that catalogs the test strategies, objectives, schedule, estimations, deadlines, and resources required to complete that project. Think of it as a blueprint for running the tests needed to ensure the software is working correctly – controlled by test.
 
 * Mind Maps
 * Test Report
