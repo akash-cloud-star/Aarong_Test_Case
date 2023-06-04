@@ -16,7 +16,12 @@ In this project the website Aarong was used as a object of testing. The artifact
 
 # Types of Testing
 * UI Testing
+
+User interface testing, a testing technique used to identify the presence of defects is a product/software under test by using Graphical user interface [GUI]
 * Functional testing
+
+Functional Testing is a type of software testing that validates the software system against the functional requirements/specifications. The purpose of Functional tests is to test each function of the software application, by providing appropriate input, verifying the output against the Functional requirements.
+
 * Usabillity Testing
 
 # Table of Content
